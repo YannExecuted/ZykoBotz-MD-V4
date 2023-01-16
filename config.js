@@ -52,46 +52,46 @@ global.syt = 'https://youtube.com/@zykobotz'
 global.sfb = 'https://www.facebook.com/' // facebook
 global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.wame = 'https://wa.me/62823504965320'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['62823504965320', 'Zidan Haznief', true],
+['62823504965320', 'Zidan Haznief', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '62823504965321' //pasang no bot lo 
+global.nomorown = '62823504965320' //pasang no own lo
+global.nomorown1 = '62823504965320'
+global.nomorown2 = '62823504965320'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Zidan Haznief'
+global.gcname = 'Danzz Botz Official'
+global.author = 'Created By DanzzBot'
+global.namabot = 'Danzz-Botz'
+global.namebot = 'Danzz-Bot'
+global.packname2 = 'By DanzzMd'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'Zidan Haznief'
+global.nameown2 = 'Zidan Haznief'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Zidan Haznief'
+global.wm2 = 'DanzzMd'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `DanzzBotz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'ZidanOwn'
+global.stickauth = `© DanzzBot`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -346,7 +346,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/kabulsaputra21"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6282124690625'
+global.phn = '62823504965320'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
