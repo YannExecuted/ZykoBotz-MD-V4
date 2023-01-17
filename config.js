@@ -55,43 +55,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/62823504965320'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62823504965320', 'Zidan Haznief', true],
-['62823504965320', 'Zidan Haznief', true]
+['6282117289550', 'Yatz', true],
+['6282117289550', 'Yatz', true]
 ]
 global.mods = []
-global.prems = []
-global.nomorbot = '62823504965321' //pasang no bot lo 
-global.nomorown = '62823504965320' //pasang no own lo
-global.nomorown1 = '62823504965320'
-global.nomorown2 = '62823504965320'
-global.nomorwa = '0'
-global.nameown = 'Zidan Haznief'
-global.gcname = 'Danzz Botz Official'
-global.author = 'Created By DanzzBot'
-global.namabot = 'Danzz-Botz'
-global.namebot = 'Danzz-Bot'
-global.packname2 = 'By DanzzMd'
+global.prems = [6282117289550]
+global.nomorbot = '62895622286921' //pasang no bot lo 
+global.nomorown = '6282117289550' //pasang no own lo
+global.nomorown1 = '6282117289550'
+global.nomorown2 = '6282117289550'
+global.nomorwa = '6282117289550'
+global.nameown = 'Yatz'
+global.gcname = 'AkenoBotz-MD Official'
+global.author = 'Created By Yatz'
+global.namabot = 'Akeno-Botz'
+global.namebot = 'Akeno-Bot'
+global.packname2 = 'By AkenoMd'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'Zidan Haznief'
-global.nameown2 = 'Zidan Haznief'
+global.nameown1= 'Yatz'
+global.nameown2 = 'Yatz'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Zidan Haznief'
-global.wm2 = 'DanzzMd'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Yatz'
+global.wm2 = 'AkenoMd'
 global.packname = wm
 global.watermark = wm
-global.titlebot = `DanzzBotz`
+global.titlebot = `AkenoBotz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'ZidanOwn'
-global.stickauth = `© DanzzBot`
+global.stickpack = 'YatzOwn'
+global.stickauth = `© AkenoBot`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
