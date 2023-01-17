@@ -68,8 +68,8 @@ global.nomorwa = '6282117289550'
 global.nameown = 'Yatz'
 global.gcname = 'AkenoBotz-MD Official'
 global.author = 'Created By Yatz'
-global.namabot = 'Akeno-Botz'
-global.namebot = 'Akeno-Bot'
+global.namabot = 'AkenoBotz'
+global.namebot = 'AkenoBotz'
 global.packname2 = 'By AkenoMd'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
